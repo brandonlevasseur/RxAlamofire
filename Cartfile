@@ -1,2 +1,2 @@
 github "ReactiveX/RxSwift" "master"
-github "brandonlevasseur/Alamofire" "5.0.0-beta.6"
+github "brandonlevasseur/Alamofire" "spike/alamofire-interceptor-support"
