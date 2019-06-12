@@ -1,2 +1,2 @@
-github "Alamofire/Alamofire" "5.0.0-beta.5"
-github "ReactiveX/RxSwift" "27b42ed7584a044d9ec6d7968c0d5f464abdcf93"
+github "ReactiveX/RxSwift" "70b8a33c5c3f4c3b15ebf10b638d2b15cfafb814"
+github "brandonlevasseur/Alamofire" "98e6a1549c69fc94032963d9c3514887813af281"
